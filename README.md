@@ -6,7 +6,7 @@ HEY! Hi, I'm Sumit Kumar A Student and a passionate Developer From India , explo
 - 💞️ I’m looking to collaborate on AI projects;
 - 📫 How to reach me linkedin.com/in/mesumitsingh;
 - ⚡ Fun fact: She can't understand my code;
-- 🥷🏻 Python, Java, Kotlin, Dart, Intellij Idea;
+- 🥷🏻 Skills: Python, Java, Kotlin, Dart, Intellij Idea;
 
 
 
