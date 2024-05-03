@@ -9,9 +9,9 @@
 
 
 ###
-
+<!--
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHppaXQwaTJubnUwdnRyZGczZzdnNXA3cGV0cXhmaW0xNHpvamp2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"  />
-
+-->
 ###
 
 <div align="left">
