@@ -29,7 +29,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mesumitsingh/" target="_blank">
+  <a href="https://www.linkedin.com/in/mesumitkumarsk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/848913209053937714" target="_blank">
