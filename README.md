@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sumit Kumar and I'm a Student & a  passionate Developer from India, exploring the world of AI and ML.</h2>
+<h2 align="left">HEY👋! I'm Sumit Kumar a sophomore student & a passionate Developer from India, exploring the world of AI and ML.</h2>
 
 ###
 
