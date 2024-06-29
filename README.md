@@ -1,4 +1,4 @@
-<h2 align="left">HEY👋! I'm Sumit Kumar a sophomore student & a passionate Developer from India, exploring the world of AI and ML.</h2>
+<h2 align="left">HEY👋! I'm Sumit Kumar a sophomore CSE student & a passionate Developer from India, exploring the world of AI and ML.</h2>
 
 ###
 
