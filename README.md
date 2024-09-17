@@ -1,5 +1,5 @@
-<h2 align="left">HEY👋! I'm Sumit Kumar a sophomore CSE student & a passionate Developer from India, exploring the world of AI and ML.</h2>
-<h3 align="left">I enjoy creating innovative projects using the web and native technologies to build solutions for real-world problems!</h3>
+<p align="left">HEY👋! I'm Sumit Kumar a sophomore CSE student & a passionate Developer from India, exploring the world of AI and ML.
+<br>I enjoy creating innovative projects using the web and native technologies to build solutions for real-world problems!</p>
 
 ###
 
