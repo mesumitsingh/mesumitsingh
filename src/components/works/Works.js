@@ -8,8 +8,8 @@ import { TextDecrypt } from "../content/TextDecrypt";
 import './Works.css';
 
 // Import ../../assets/recentprojects/
-import Portfolio from '../../assets/recentprojects/react-portfolio.png';
-import Veritru from '../../assets/recentprojects/veritru.png';
+import App_Project_SS from '../../assets/recentprojects/App_Project_SS.png';
+import resume_pro_ss from '../../assets/recentprojects/resume_pro_ss.png';
 import Lofo from '../../assets/recentprojects/lofo.png';
 import Startup from '../../assets/recentprojects/startup.png';
 import Lacalle from '../../assets/recentprojects/lacalle.png';
@@ -27,46 +27,23 @@ export const Works = () => {
   const [projects, setProjects] = useState([
     { 
       id: 1,
-      title: 'React Portfolio', 
-      description: `Designed and developed a ReactJS portfolio 
-      with fancy 3D animations using Three.js for 
-      the background element.`,
-      alter: 'React Portfolio',
-      image: `${Portfolio}`,
+      title: 'Sign Language App', 
+      description: `Created a React Native Sign Language App for deaf and mute individuals, featuring interactive lessons and engaging animations. The app aims to enhance communication and make learning sign language fun and accessible.`,
+      alter: 'Sign Language App',
+      image: `${App_Project_SS}`,
     },
     { 
       id: 2,
-      title: 'VeriTru Project', 
-      description: `An advocacy project website built using
-      MEAN stack with fact-checking tool to promote actions against
-      fake news.`,
-      alter: 'VeriTru Project',
-      image: `${Veritru}`,
+      title: 'PACE in the Classroom', 
+      description: `Created an educational website, "PACE in the Classrooms," to help teachers and students access NASA's PACE satellite data easily. The site includes a chatbot, games, and quizzes to explore topics like ocean color and phytoplankton growth. Our goal is to make learning about oceans fun and engaging for everyone!`,
+      alter: 'resume_pro_ss Project',
+      image: `${resume_pro_ss}`,
     },
-    { 
+    {
       id: 3,
-      title: 'LoFo Project', 
-      description: `Logistics and Forwarding website built using
-      ReactJS to design and develop its front-end.`,
-      alter: 'LoFo Project',
-      image: `${Lofo}`,
-    },
-    { 
-      id: 4,
-      title: 'Startup Project', 
-      description: `A website portfolio project for the Startup Dev Team
-      built using MEVN stack to demonstrate the CRUD capabilities of the tech stack.`,
-      alter: 'Startup Project',
-      image: `${Startup}`,
-    },
-    { 
-      id: 5,
-      title: 'LaCalle Cafe', 
-      description: `A website project for the La Calle Cafe business
-      built using Wordpress and PHP with integrated SEO tools to help
-      the business ramp up its prospects and lead generation.`,
-      alter: 'Startup Project',
-      image: `${Lacalle}`,
+      title: 'ATS Friendly Resume Builder', 
+      description: `ATS-friendly Resume Builder to help users create professional resumes that easily pass through applicant tracking systems. The tool features customizable templates and user-friendly input forms, ensuring that resumes are well-structured and visually appealing. This project aims to simplify the job application process and enhance users' chances of landing interviews.`,
+      image: `${resume_pro_ss}`,
     },
   ]);
 
