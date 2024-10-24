@@ -11,6 +11,8 @@ const useStyles = makeStyles((theme) => ({
     height: "50px",
     top: theme.spacing(6),
     left: theme.spacing(6),
+    padding: theme.spacing(1), 
+    backgroundColor: "#fff", 
     boxShadow:
       "0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12)",
     borderRadius: "50%",
@@ -27,12 +29,12 @@ export const LogoLink = () => {
       TransitionComponent={Zoom}
     >
       <Link
-          variant="h6"
-          href={Resume.basics.url}
-          underline="none"
-          color="inherit"
-          noWrap
-          className={classes.svg}
+        variant="h6"
+        href={Resume.basics.url}
+        underline="none"
+        color="inherit"
+        noWrap
+        className={classes.svg}
       >
         <Logo />
       </Link>
