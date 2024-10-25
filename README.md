@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Portfolio Website built with React v16
 
 [![Screenshot](/public/social-image.png?raw=true)](https://taniyow.vercel.app)
@@ -56,3 +57,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
+=======
+# mesumitkumarsk.github.io
+>>>>>>> de6b6b7d7c497e667d8352e03662e113a993320c
