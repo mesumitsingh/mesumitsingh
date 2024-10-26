@@ -20,11 +20,11 @@ const useStyles = makeStyles((theme) => ({
 export const About = () => {
   const classes = useStyles();
   const greetings = "Hello there!";
-  const aboutme = `I'm ${FirstName} ${LastName}, a multidisciplinary 
-                  developer. I'm always down for something new and challenging!
-                  I'm here to help you create beautifully formatted websites. 
-                  My projects mostly includes web development.`;
-
+  const aboutme = `I'm ${FirstName} ${LastName}, a multidisciplinary engineer specializing in 
+                  machine learning. I'm always up for tackling new and challenging projects! 
+                  I'm here to help you build intelligent systems and data-driven solutions. 
+                  My projects primarily focus on machine learning, data analysis, and AI-driven applications.`;
+                  
   return (
     <section id="about">
       <Container component="main" className={classes.main} maxWidth="md">
