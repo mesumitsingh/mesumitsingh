@@ -1,5 +1,4 @@
 {
-    "homepage": "https://singhsumit.me",
     "name": "react-portfolio",
     "version": "0.1.0",
     "description": "A clean and customizable ReactJS portfolio template for fellow developers. Credits to Jo Lienhoop!",
@@ -31,8 +30,6 @@
       "use-dencrypt-effect": "1.0.1"
     },
     "scripts": {
-      "predeploy": "npm run build",
-      "deploy": "gh-pages -d build",
       "start": "react-scripts start",
       "build": "react-scripts build && react-snapshot",
       "test": "react-scripts test",
