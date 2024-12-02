@@ -1,6 +1,6 @@
 {
     "basics": {
-        "name": "Sumit Kumar",
+        "name": "Sumit Singh",
         "label": "Machine Learning Engineer",
         "email": "mesumitkumarsk@hotmail.com",
         "phone": "+91 0000000000",
@@ -29,19 +29,19 @@
             },
             {
                 "network": "LinkedIn",
-                "username": "mesumitkumarsk",
-                "url": "https://www.linkedin.com/in/mesumitkumarsk/",
+                "username": "mesumitsingh",
+                "url": "https://www.linkedin.com/in/mesumitsingh/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "mesumitkumarsk",
-                "url": "https://github.com/mesumitkumarsk",
+                "username": "mesumitsingh",
+                "url": "https://github.com/mesumitsingh",
                 "x_icon": "fab fa-github"
             },
             {
                 "network": "Discord",
-                "username": "mesumitkumarsk",
+                "username": "mesumitsingh",
                 "url": "https://discord.com",
                 "x_icon": "fab fa-discord"
             }

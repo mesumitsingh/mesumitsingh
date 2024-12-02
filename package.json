@@ -3,7 +3,7 @@
     "name": "react-portfolio",
     "version": "0.1.0",
     "description": "A clean and customizable ReactJS portfolio template for fellow developers. Credits to Jo Lienhoop!",
-    "author": "Sumit Kumar <mesumitkumarsk@hotmail.com>",
+    "author": "Sumit Singh <mesumitkumarsk@hotmail.com>",
     "license": "MIT",
     "dependencies": {
     "react": "^16.14.0",

@@ -46,7 +46,7 @@ export const Works = () => {
       description: `Created a React Native Sign Language App for deaf and mute individuals, featuring interactive lessons and engaging animations. The app aims to enhance communication and make learning sign language fun and accessible.`,
       alter: 'Sign Language App',
       image: `${App_Project_SS}`,
-      link: 'https://github.com/mesumitkumarsk/SIH24',
+      link: 'https://github.com/mesumitsingh/SIH24',
       x_icon: 'fab fa-github'
     },
     { 
@@ -55,7 +55,7 @@ export const Works = () => {
       description: `Created an educational website, "PACE in the Classrooms," to help teachers and students access NASA's PACE satellite data easily. The site includes a chatbot, games, and quizzes to explore topics like ocean color and phytoplankton growth. Our goal is to make learning about oceans fun and engaging for everyone!`,
       alter: 'resume_pro_ss Project',
       image: `${react_website}`,
-      link: 'https://github.com/mesumitkumarsk/PACE-IN-CLASSROOMs',
+      link: 'https://github.com/mesumitsingh/PACE-IN-CLASSROOMs',
       x_icon: 'fab fa-github'
     },
     {
@@ -63,7 +63,7 @@ export const Works = () => {
       title: 'ATS Friendly Resume Builder', 
       description: `ATS-friendly Resume Builder to help users create professional resumes that easily pass through applicant tracking systems. The tool features customizable templates and user-friendly input forms, ensuring that resumes are well-structured and visually appealing. This project aims to simplify the job application process and enhance users' chances of landing interviews.`,
       image: `${resume_pro_ss}`,
-      link: 'https://github.com/mesumitkumarsk/ats-friendly-resume-builder',
+      link: 'https://github.com/mesumitsingh/ats-friendly-resume-builder',
       x_icon: 'fab fa-github'
     },
   ]);
