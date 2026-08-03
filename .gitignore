@@ -1,0 +1,75 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# ==========================
+# IDE
+# ==========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+.env.*
+!.env.example
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
+# ==========================
+# Generated Cache
+# ==========================
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# ==========================
+# Local Secrets
+# ==========================
+secrets.json
+token.txt
+credentials.json
+
+# ==========================
+# Temporary Files
+# ==========================
+*.tmp
+*.bak
+
+# ==========================
+# Keep Generated SVGs
+# (DO NOT IGNORE THESE)
+# ==========================
+# ascii.svg
+# stats.svg
+# streak.svg
+# langs.svg
+# year.svg
+# hd-*.svg
