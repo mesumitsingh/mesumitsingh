@@ -4,7 +4,7 @@
 
 <img src="./stats.svg" width="620" alt="GitHub Statistics"/>
 
-[Portfolio](https://mesumitsingh.com) &nbsp;·&nbsp;
+[Portfolio](https://mesumitsingh.netlify.app/) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/mesumitsingh/) &nbsp;·&nbsp;
 [Instagram](https://www.instagram.com/sumit.zl/) &nbsp;·&nbsp;
 [GitHub](https://github.com/mesumitsingh) &nbsp;·&nbsp;
@@ -16,10 +16,11 @@
 
 <img src="./hd-about.svg" width="620" alt="About"/>
 
-> Computer Science & Engineering student specializing in Artificial Intelligence & Machine Learning, based in India.<br>
+> HEY👋! I'm Sumit Sengar a CSE student & a passionate Developer from India, exploring the world of AI and ML.<br>
+I enjoy creating innovative projects using the web and native technologies to build solutions for real-world problems!<br>
 > Passionate about building practical software that solves real-world problems.
 
-I enjoy turning ideas into products by combining software engineering with AI.
+I love turning ideas into products by combining software engineering with AI.
 
 Currently interested in:
 
@@ -145,7 +146,7 @@ I'm currently working on:
 
 ---
 
-<img src="./hd-about-this-page.svg" width="620" alt="About this page"/>
+<!-- <img src="./hd-about-this-page.svg" width="620" alt="About this page"/>
 
 Everything on this profile is generated automatically.
 
@@ -153,14 +154,17 @@ The SVG graphics, contribution visualizations, section headers, and statistics a
 
 The goal is to create a clean developer portfolio that showcases projects, technical skills, and consistent contributions without relying heavily on third-party services.
 
----
+--- -->
 
 <div align="center">
 
-<img align="right" width="230" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHppaXQwaTJubnUwdnRyZGczZzdnNXA3cGV0cXhmaW0xNHpvamp2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Coding Dog"/>
+
 
 ### Thanks for stopping by! 👋
 
-If you like my work, consider ⭐ starring a repository or connecting with me on LinkedIn.
+Connect with me on LinkedIn.<br>
+May your builds stay green, your merge conflicts be someone else's problem, and your production never seen.
+
+<img align="left" width="230" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHppaXQwaTJubnUwdnRyZGczZzdnNXA3cGV0cXhmaW0xNHpvamp2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Coding Dog"/>
 
 </div>
