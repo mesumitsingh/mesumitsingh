@@ -1,75 +1,166 @@
 <div align="center">
 
-<img src="./ascii.svg" width="460" alt="Andrii Drok"/>
+<img src="./ascii.svg" width="460" alt="Sumit Kumar"/>
 
-<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
+<img src="./stats.svg" width="620" alt="GitHub Statistics"/>
 
-[mesumitsingh.com](https://mesumitsingh.com) &nbsp;·&nbsp;
-[instagram](https://www.instagram.com/sumit.zl/) &nbsp;·&nbsp;
-[linkedin](https://www.linkedin.com/in/mesumitsingh/) &nbsp;·&nbsp;
-[email](mailto:mesumitsingh@hotmail.com)
+[Portfolio](https://mesumitsingh.com) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/mesumitsingh/) &nbsp;·&nbsp;
+[Instagram](https://www.instagram.com/sumit.zl/) &nbsp;·&nbsp;
+[GitHub](https://github.com/mesumitsingh) &nbsp;·&nbsp;
+[Email](mailto:mesumitkumarsk@hotmail.com)
 
 </div>
 
-<img src="./hd-about.svg" width="620" alt="about"/>
+---
 
-> CS student at San Francisco State, in the SF Bay Area.<br>
-> Small, sharp tools over big vague ideas.
+<img src="./hd-about.svg" width="620" alt="About"/>
 
-I build fast, test on real users, and kill what doesn't work. Right now that's<br>
-[autobroll](https://github.com/mesumitsingh1/autobroll) — an AI short-form video editor that runs in the browser. Also<br>
-deep into markets: Pine Script indicators, backtesting, on-chain data.
+> Computer Science & Engineering student specializing in Artificial Intelligence & Machine Learning, based in India.<br>
+> Passionate about building practical software that solves real-world problems.
 
-<img src="./hd-stack.svg" width="620" alt="stack"/>
+I enjoy turning ideas into products by combining software engineering with AI.
 
-<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
+Currently interested in:
 
-<img src="./hd-projects.svg" width="620" alt="projects"/>
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 AI Agents & Generative AI
+- 🌐 Full Stack Development
+- ☁️ Cloud Computing (AWS & Google Cloud)
+- 📱 Android & Cross-platform Apps
+- 💻 Data Structures & Algorithms
+- 🚀 Open Source
 
-**[autobroll](https://github.com/mesumitsingh1/autobroll)** &nbsp;·&nbsp; <samp>typescript, remotion</samp><br>
-AI short-form video editor in the browser. Auto captions with accents,<br>
-drag-and-retime editing, b-roll placement: transcript in, rendered video out.
+---
 
-**[strategy-checker](https://github.com/mesumitsingh1/strategy-checker)** &nbsp;·&nbsp; <samp>python</samp><br>
-Describe a trading strategy in plain English, get a real backtest with<br>
-statistical validation. Exposes curve-fitting, not alpha.
+<img src="./hd-stack.svg" width="620" alt="Tech Stack"/>
 
-**[compound](https://github.com/mesumitsingh1/compound)** &nbsp;·&nbsp; <samp>typescript, convex</samp><br>
-Autonomous research agent for your second brain. Built solo at Nozomio<br>
-Hackathon, EF SF.
+<samp>
 
-**[mesumitsingh.com](https://mesumitsingh.com)** &nbsp;·&nbsp; <samp>three.js, webgl</samp><br>
-Particle-morph portfolio: thousands of particles reshaping between scenes.
+Java &nbsp;
+Python &nbsp;
+JavaScript &nbsp;
+TypeScript &nbsp;
+Kotlin &nbsp;
+Dart &nbsp;
+Flutter &nbsp;
+React &nbsp;
+Spring Boot &nbsp;
+Node.js &nbsp;
+Firebase &nbsp;
+MongoDB &nbsp;
+MySQL &nbsp;
+Git &nbsp;
+Linux &nbsp;
+AWS &nbsp;
+Google Cloud
 
-<img src="./hd-stats.svg" width="620" alt="stats"/>
+</samp>
+
+---
+
+<img src="./hd-projects.svg" width="620" alt="Projects"/>
+
+### ATS Friendly Resume Builder
+<samp>Python • Markdown • PDF</samp>
+
+Generate professional ATS-friendly resumes automatically from structured data with Markdown and PDF generation.
+
+---
+
+### Park-Ease
+<samp>Java • Android • Firebase • Google Maps</samp>
+
+A smart parking application built during a hackathon featuring authentication, real-time parking management, live locations, and cloud storage.
+
+---
+
+### AI & Machine Learning Projects
+<samp>Python • TensorFlow • Scikit-learn</samp>
+
+A collection of AI and ML projects exploring computer vision, intelligent automation, prediction models, and practical machine learning applications.
+
+---
+
+### YouTube Video Downloader
+<samp>Python • Tkinter</samp>
+
+Desktop application that downloads YouTube videos with a clean graphical interface built using Python.
+
+---
+
+### More Projects
+
+Explore everything I've built:
+
+**https://github.com/mesumitsingh**
+
+---
+
+<img src="./hd-stats.svg" width="620" alt="GitHub Stats"/>
 
 <div align="center">
 
-<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+<img src="./streak.svg" width="620" alt="GitHub Streak"/>
 
-<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+<img src="./langs.svg" width="620" alt="Top Languages"/>
 
-<img src="./year.svg" width="620" alt="The last year, one character per day"/>
+<img src="./year.svg" width="620" alt="Contribution Graph"/>
 
 </div>
 
-<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
+---
 
-Every graphic here is generated, not embedded from anyone else's server.<br>
-`ascii.svg` is a photo pushed through a character ramp by<br>
-[`scripts/make_portrait.py`](scripts/make_portrait.py); the stat graphics and<br>
-these section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
-straight from the GitHub GraphQL API, once a day, committing only what changed.
+<img src="./hd-achievements.svg" width="620" alt="Achievements"/>
 
-They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
-READMEs — and since nothing loads from a third party, nothing here can<br>
-rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
-strips CSS, so an image is the only way to put this page's own typeface on them.
+🏆 AWS Certified Cloud Practitioner
 
-The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters<br>
-each graphic draws and inlined as base64. That isn't only for looks: the<br>
-portrait's grid assumes an advance width of exactly 0.600 em, and a viewer whose<br>
-default monospace is narrower would otherwise see it squeezed.
+☁️ Google Cloud Skill Badges
 
-Language totals cover public repositories only. `year.svg` uses the portrait's<br>
-character ramp: `:` `+` `#` `@`, quiet to loud.
+🥇 Hackathon Participant
+
+🚀 Open Source Contributor
+
+💻 Competitive Programmer
+
+🧩 Data Structures & Algorithms Enthusiast
+
+🤖 AI & ML Developer
+
+📚 Computer Science Engineering Student
+
+---
+
+<img src="./hd-current.svg" width="620" alt="Currently"/>
+
+I'm currently working on:
+
+- 🤖 AI Agents & Autonomous Systems
+- 🧠 Generative AI Applications
+- 💬 Large Language Model Integrations
+- ☁️ Cloud-based Applications
+- 🚀 Open Source Contributions
+- 💻 Daily LeetCode & DSA Practice
+- 📖 System Design & Backend Development
+
+---
+
+<img src="./hd-about-this-page.svg" width="620" alt="About this page"/>
+
+Everything on this profile is generated automatically.
+
+The SVG graphics, contribution visualizations, section headers, and statistics are rendered using GitHub Actions and GitHub's GraphQL API, keeping the profile lightweight and always up to date.
+
+The goal is to create a clean developer portfolio that showcases projects, technical skills, and consistent contributions without relying heavily on third-party services.
+
+---
+
+<div align="center">
+
+<img align="right" width="230" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHppaXQwaTJubnUwdnRyZGczZzdnNXA3cGV0cXhmaW0xNHpvamp2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Coding Dog"/>
+
+### Thanks for stopping by! 👋
+
+If you like my work, consider ⭐ starring a repository or connecting with me on LinkedIn.
+
+</div>
