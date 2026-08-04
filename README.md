@@ -62,31 +62,39 @@ Google Cloud
 
 <img src="./hd-projects.svg" width="620" alt="Projects"/>
 
-### ATS Friendly Resume Builder
+### YouTube Trending Video Data Pipeline
+<samp>AWS S3 • AWS Glue • AWS Lambda • Athena • QuickSight • IAM</samp>
+
+End-to-end AWS data pipeline that ingests raw YouTube trending-video data (CSV/JSON) from multiple regions into a centralized S3 data lake, transforms it via Glue ETL jobs, and serves it through Athena for serverless SQL querying and QuickSight for BI dashboarding, with IAM-managed secure access.
+
+**[View on GitHub →](https://github.com/mesumitsingh/de-youtube-project-analysis)**
+
+---
+
+### RAG-based Document Q&A System
+<samp>Python • LangChain • ChromaDB</samp>
+
+Retrieval-Augmented Generation pipeline using LangChain and ChromaDB (vector database) for semantic search and LLM-based question answering over enterprise documents.
+
+**[View on GitHub →](https://github.com/mesumitsingh/learning-rag)**
+
+---
+
+### Research Agentic AI
+<samp>Python • LangChain • LLM Agents</samp>
+
+Autonomous LLM agent that plans its own steps for web research — tool calling, retrieval, summarization, and structured report generation — with no manual intervention between steps.
+
+**[View on GitHub →](https://github.com/mesumitsingh/research-agentic-ai)**
+
+---
+
+### ATS-Friendly Resume Builder
 <samp>Python • Markdown • PDF</samp>
 
-Generate professional ATS-friendly resumes automatically from structured data with Markdown and PDF generation.
+Python tool that automates ATS-compatible resume generation from Markdown templates via PDF conversion APIs, removing manual formatting work.
 
----
-
-### Park-Ease
-<samp>Java • Android • Firebase • Google Maps</samp>
-
-A smart parking application built during a hackathon featuring authentication, real-time parking management, live locations, and cloud storage.
-
----
-
-### AI & Machine Learning Projects
-<samp>Python • TensorFlow • Scikit-learn</samp>
-
-A collection of AI and ML projects exploring computer vision, intelligent automation, prediction models, and practical machine learning applications.
-
----
-
-### YouTube Video Downloader
-<samp>Python • Tkinter</samp>
-
-Desktop application that downloads YouTube videos with a clean graphical interface built using Python.
+**[View on GitHub →](https://github.com/mesumitsingh)**
 
 ---
 
@@ -146,23 +154,11 @@ I'm currently working on:
 
 ---
 
-<!-- <img src="./hd-about-this-page.svg" width="620" alt="About this page"/>
-
-Everything on this profile is generated automatically.
-
-The SVG graphics, contribution visualizations, section headers, and statistics are rendered using GitHub Actions and GitHub's GraphQL API, keeping the profile lightweight and always up to date.
-
-The goal is to create a clean developer portfolio that showcases projects, technical skills, and consistent contributions without relying heavily on third-party services.
-
---- -->
-
 <div align="center">
-
-
 
 ### Thanks for stopping by! 👋
 
-Connect with me on LinkedIn.<br>
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mesumitsingh/) <3 <br>
 May your builds stay green, your merge conflicts be someone else's problem, and your production never seen.
 
 <img align="left" width="230" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHppaXQwaTJubnUwdnRyZGczZzdnNXA3cGV0cXhmaW0xNHpvamp2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Coding Dog"/>
