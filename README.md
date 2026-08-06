@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii.svg" width="620" alt="Sumit Kumar"/>
+<img src="./ascii.svg" width="720" alt="Sumit Kumar"/>
 
 <img src="./stats.svg" width="620" alt="GitHub Statistics"/>
 
